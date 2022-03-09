@@ -4,16 +4,17 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: discord
+  icon: 'fab fa-discord'
+  url:  'https://discord.gg/jvNesVWq3'   
+-
+  type: patreon
+  icon: 'fab fa-patreon'
+  url: 'https://www.patreon.com/wrightcyber'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
