@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   A landing page site for all things WrightCyber
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://wrightcyber.net'
+url: 'https://wrightcyber.github.io'
 
 github:
   username: WrightCyber             # change to your github username
