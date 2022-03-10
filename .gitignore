@@ -2,7 +2,7 @@
 .*
 !.git*
 !.editorconfig
-!.nojekyll
+.nojekyll
 !.travis.yml
 
 # bundler cache
